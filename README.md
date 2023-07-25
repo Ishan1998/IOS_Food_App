@@ -62,11 +62,11 @@ Now, you should have the app running on your simulator or physical device.
 
 ## Features
 
-- [List your project's main features here]
-- [Feature 1]
-- [Feature 2]
-- [Feature 3]
-- ...
+- #### Product Listings: Display a list of products with relevant details, including images, prices, descriptions, and ratings.
+- #### Product Search: Implement a search functionality to help users find specific products easily. 
+- #### Product Categories and Filtering: Categorize products and enable users to filter products based on various attributes (e.g., price, brand, size).
+- #### Product Details: Show detailed information about a selected product, including multiple images, specifications, and customer reviews.
+- #### Shopping Cart: Allow users to add products to their cart, view the cart, and manage quantities.
 
 ## Technologies Used
 
