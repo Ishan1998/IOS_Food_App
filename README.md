@@ -6,6 +6,9 @@
 
 Welcome to our Awesome React Native Project! This repository contains a fantastic mobile app built using React Native.
 
+## Demo
+![Alt Text](output/app.gif)
+
 ## Table of Contents
 
 - [Getting Started](#getting-started)
